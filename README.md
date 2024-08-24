@@ -8,9 +8,9 @@
 - <h1><strong> I'M SAKI TENMA FANS TEEHEE </strong></h1>
 <img src="https://static.wikia.nocookie.net/projectsekai/images/5/5b/Stamp0384.png/revision/latest?cb=20220208073325" alt="Teehee Saki" style="width:150px;height:150px;">
 - <p> My goal is can go to any country for job</p>
-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" title="Sonolus Gameplay"> This my YT Video </a> <br>
-- <a href="https://youtube.com/shorts/vXfHrG8Hi_o?si=WQvwp_rIl1bnw6zz" target="_blank" title="Honey Pie for real"> OH GIRL DON'T YOU STOP DON'T YOU STOP TILL YOU GET ENOUGH HONEY OH HONEY HONEY PIE HONEY HONEY HONEY PIE </a> <br>
-- <a href="https://youtu.be/kVNSfzMDzAM?si=dc3qCmEDyaTuudxj" target="_blank" title="Shiroko Dance"> Odottenai yoru o shiranai Odottenai yoru ga kiniiranai Odottenai yoru o shiranai Odottenai yoru ga kiniiranai yo </a>
+- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_top" title="Sonolus Gameplay"> This my YT Video </a> <br>
+- <a href="https://youtube.com/shorts/vXfHrG8Hi_o?si=WQvwp_rIl1bnw6zz" target="_top" title="Honey Pie for real"> OH GIRL DON'T YOU STOP DON'T YOU STOP TILL YOU GET ENOUGH HONEY OH HONEY HONEY PIE HONEY HONEY HONEY PIE </a> <br>
+- <a href="https://youtu.be/kVNSfzMDzAM?si=dc3qCmEDyaTuudxj" target="_top" title="Shiroko Dance"> Odottenai yoru o shiranai Odottenai yoru ga kiniiranai Odottenai yoru o shiranai Odottenai yoru ga kiniiranai yo </a>
 
 
 <!---
