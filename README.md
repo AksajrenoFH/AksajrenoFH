@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aksajreno FH
 - 👀 I’m interested in Program Langguage
-- 🌱 I’m currently learning HTML, CSS, Java, etc. (just learn html first)
+- 🌱 I’m currently learning HTML, CSS, Java, etc. (just understand html, css, and java)
 - 💞️ I’m looking to collaborate on Instagram, X, Discord or Youtube
 - 📫 How to reach me 
 - 😄 Pronouns: He/Him
