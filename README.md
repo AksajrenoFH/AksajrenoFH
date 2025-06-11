@@ -144,16 +144,10 @@
 
 ---
 
-## 📌 Catatan
-
-> Oke sudah, hehe
-
----
-
 <div align="center">
 
-  # BONUS Momoi Makan
+  <h2>BONUS Momoi Makan</h2>
 
-  <img src="https://media1.tenor.com/m/vCHi6M0YuZIAAAAC/saiba-momoi-blue-sechi.gif">
+  <img src="https://media1.tenor.com/m/vCHi6M0YuZIAAAAC/saiba-momoi-blue-sechi.gif" width="350">
 </div>
 
