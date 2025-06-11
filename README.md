@@ -11,10 +11,10 @@
 - 💡 Tertarik di bidang **JavaScript, Backend, dan Node.js**
 - 📫 Bisa kontak saya lewat: [email@email.com](mailto:jrenksa31@email.com)
 - 📱 MedSos (Barang kali boleh difollow) :
-    - <a href="https://www.instagram.com/i77.o13/" target="_blank">Instagram</a>
-    - <a href="https://x.com/Ju5tS0m3Th1ng" target="_blank">Twitter</a>
-    - <a href="https://www.facebook.com/s4me.sam3/" target="_blank">Fesnuk</a>
-    - <a href="https://www.youtube.com/@someonetomeetyou" target="_blank">Youtube</a> (msi bisa diitung medsos)
+    - <a href="https://www.instagram.com/i77.o13/">Instagram</a>
+    - <a href="https://x.com/Ju5tS0m3Th1ng">Twitter</a>
+    - <a href="https://www.facebook.com/s4me.sam3/">Fesnuk</a>
+    - <a href="https://www.youtube.com/@someonetomeetyou">Youtube</a> (msi bisa diitung medsos)
 - 🔮 Alasan belajar Ngodink : Mau buat Bot kyk di Discord, WA, dsj
 
 ---
@@ -87,9 +87,9 @@
     <td><img src="https://i.scdn.co/image/ab67616d00001e0228536e121afd279879d21642" width="100"/></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://open.spotify.com/intl-id/track/2sb0MPuym9pDaru5M2DHsU" target="_blank">Help!</a></td>
-    <td align="center"><a href="https://open.spotify.com/intl-id/track/5h8I4E89cihpXw7ri4yo25" target="_blank">Lasting Freedom</a></td>
-    <td align="center"><a href="https://open.spotify.com/intl-id/track/446RW9TkvQNBHxJqD986nb" target="_blank">Above Below</a></td>
+    <td align="center"><a href="https://open.spotify.com/intl-id/track/2sb0MPuym9pDaru5M2DHsU">Help!</a></td>
+    <td align="center"><a href="https://open.spotify.com/intl-id/track/5h8I4E89cihpXw7ri4yo25">Lasting Freedom</a></td>
+    <td align="center"><a href="https://open.spotify.com/intl-id/track/446RW9TkvQNBHxJqD986nb">Above Below</a></td>
   </tr>
 </table>
 </div>
@@ -99,11 +99,11 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center"><img src="https://i.scdn.co/image/ab6761610000517469fbe8f09ed2c94b8f979a8d" width="80"/><br/><a href="https://open.spotify.com/artist/2Iss9rGmxvoEfVigargjTH" target="_blank">Moona Hoshinova</a></td>
-    <td align="center"><img src="https://i.scdn.co/image/ab67616d00001e0281bffc699c75f72c1f7313aa" width="80"/><br/><a href="https://open.spotify.com/intl-id/artist/6AjW1aE0OlIoRGdnwbHgP2" target="_blank">Kobo Kanaeru</a></td>
-    <td align="center"><img src="https://i.scdn.co/image/ab67616100005174bcb1c184c322688f10cdce7a" width="80"/><br/><a href="https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl" target="_blank">Ado</a></td>
-    <td align="center"><img src="https://i.scdn.co/image/ab67616100005174b639332f84f555713a1cff46" width="80"/><br/><a href="https://open.spotify.com/intl-id/artist/5XaBNKQo65yYcjNA8wQPOk" target="_blank">宝鐘マリン</a></td>
-    <td align="center"><img src="https://i.scdn.co/image/ab67616d00001e02c63e9f758f4e8eceadabc3f0" width="80"/><br/><a href="https://open.spotify.com/intl-id/artist/7CXyP7IN0L3ySUeIQ6Ymu1" target="_blank">Leo/Need</a></td>
+    <td align="center"><img src="https://i.scdn.co/image/ab6761610000517469fbe8f09ed2c94b8f979a8d" width="80"/><br/><a href="https://open.spotify.com/artist/2Iss9rGmxvoEfVigargjTH">Moona Hoshinova</a></td>
+    <td align="center"><img src="https://i.scdn.co/image/ab67616d00001e0281bffc699c75f72c1f7313aa" width="80"/><br/><a href="https://open.spotify.com/intl-id/artist/6AjW1aE0OlIoRGdnwbHgP2">Kobo Kanaeru</a></td>
+    <td align="center"><img src="https://i.scdn.co/image/ab67616100005174bcb1c184c322688f10cdce7a" width="80"/><br/><a href="https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl">Ado</a></td>
+    <td align="center"><img src="https://i.scdn.co/image/ab67616100005174b639332f84f555713a1cff46" width="80"/><br/><a href="https://open.spotify.com/intl-id/artist/5XaBNKQo65yYcjNA8wQPOk">宝鐘マリン</a></td>
+    <td align="center"><img src="https://i.scdn.co/image/ab67616d00001e02c63e9f758f4e8eceadabc3f0" width="80"/><br/><a href="https://open.spotify.com/intl-id/artist/7CXyP7IN0L3ySUeIQ6Ymu1">Leo/Need</a></td>
   </tr>
 </table>
 </div>
@@ -114,19 +114,19 @@
 <table>
   <tr>
     <td>
-      <a href="https://open.spotify.com/playlist/4NCmQG8dy8LnfNIfGO1MFb" target="_blank">
+      <a href="https://open.spotify.com/playlist/4NCmQG8dy8LnfNIfGO1MFb">
         <img src="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c3e34a41b4f2a90c3731fc368" width="200"/>
         <p align="center">💖 Hololive Fav Songs</p>
       </a>
     </td>
     <td>
-      <a href="https://open.spotify.com/intl-id/artist/6mEQK9m2krja6X1cfsAjfl" target="_blank">
+      <a href="https://open.spotify.com/intl-id/artist/6mEQK9m2krja6X1cfsAjfl">
         <img src="https://i.scdn.co/image/ab67616100005174bcb1c184c322688f10cdce7a" width="200"/>
         <p align="center">✨ Ado</p>
       </a>
     </td>
     <td>
-      <a href="https://open.spotify.com/playlist/37i9dQZF1DZ06evO4w6PwC" target="_blank">
+      <a href="https://open.spotify.com/playlist/37i9dQZF1DZ06evO4w6PwC">
         <img src="https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/thisis/7CXyP7IN0L3ySUeIQ6Ymu1/id" width="200"/>
         <p align="center">🎹 This Is Leo/Need</p>
       </a>
