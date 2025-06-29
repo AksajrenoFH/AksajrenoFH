@@ -99,11 +99,11 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="100"><img src="https://i.scdn.co/image/ab6761610000517469fbe8f09ed2c94b8f979a8d" width="80"/><br/><a href="https://open.spotify.com/artist/2Iss9rGmxvoEfVigargjTH">Moona Hoshinova</a></td>
-    <td align="center" width="100"><img src="https://i.scdn.co/image/ab67616d00001e0281bffc699c75f72c1f7313aa" width="80"/><br/><a href="https://open.spotify.com/intl-id/artist/6AjW1aE0OlIoRGdnwbHgP2">Kobo Kanaeru</a></td>
-    <td align="center" width="100"><img src="https://i.scdn.co/image/ab67616100005174bcb1c184c322688f10cdce7a" width="80"/><br/><a href="https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl">Ado</a></td>
-    <td align="center" width="100"><img src="https://i.scdn.co/image/ab67616100005174b639332f84f555713a1cff46" width="80"/><br/><a href="https://open.spotify.com/intl-id/artist/5XaBNKQo65yYcjNA8wQPOk">宝鐘マリン</a></td>
-    <td align="center" width="100"><img src="https://i.scdn.co/image/ab67616d00001e02c63e9f758f4e8eceadabc3f0" width="80"/><br/><a href="https://open.spotify.com/intl-id/artist/7CXyP7IN0L3ySUeIQ6Ymu1">Leo/Need</a></td>
+    <td align="center"><img src="https://i.scdn.co/image/ab6761610000517469fbe8f09ed2c94b8f979a8d" width="80"/><br/><a href="https://open.spotify.com/artist/2Iss9rGmxvoEfVigargjTH">Moona Hoshinova</a></td>
+    <td align="center"><img src="https://i.scdn.co/image/ab67616d00001e0281bffc699c75f72c1f7313aa" width="80"/><br/><a href="https://open.spotify.com/intl-id/artist/6AjW1aE0OlIoRGdnwbHgP2">Kobo Kanaeru</a></td>
+    <td align="center"><img src="https://i.scdn.co/image/ab67616100005174bcb1c184c322688f10cdce7a" width="80"/><br/><a href="https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl">Ado</a></td>
+    <td align="center"><img src="https://i.scdn.co/image/ab67616100005174b639332f84f555713a1cff46" width="80"/><br/><a href="https://open.spotify.com/intl-id/artist/5XaBNKQo65yYcjNA8wQPOk">宝鐘マリン</a></td>
+    <td align="center"><img src="https://i.scdn.co/image/ab67616d00001e02c63e9f758f4e8eceadabc3f0" width="80"/><br/><a href="https://open.spotify.com/intl-id/artist/7CXyP7IN0L3ySUeIQ6Ymu1">Leo/Need</a></td>
   </tr>
 </table>
 </div>
