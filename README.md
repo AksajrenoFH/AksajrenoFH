@@ -65,6 +65,10 @@
 - DanDaDan
 - Dr. Stone
 - Dark Gathering
+- Kamen Rider Heisei
+- Kamen Rider Reiwa (cmn ampe revice)
+- Super Sentai Heisei
+- Super Sentai Reiwa (cmn ampe zenkaiger)
 - dlsb (dan lain sebagainya)
 
 ### 😺 Fun Fact :
@@ -84,12 +88,12 @@
   <tr>
     <td><img src="https://i.scdn.co/image/ab67616d00001e02e0c4007daaad3c26ce9090e9" width="100"/></td>
     <td><img src="https://i.scdn.co/image/ab67616d00001e027abbe7430e3d96d7cc165c11" width="100"/></td>
-    <td><img src="https://i.scdn.co/image/ab67616d00001e0228536e121afd279879d21642" width="100"/></td>
+    <td><img src="https://i.scdn.co/image/ab67616d00001e02f4f0ba48bb082e43105fbdea" width="100"/></td>
   </tr>
   <tr>
     <td align="center"><a href="https://open.spotify.com/intl-id/track/2sb0MPuym9pDaru5M2DHsU">Help!</a></td>
     <td align="center"><a href="https://open.spotify.com/intl-id/track/5h8I4E89cihpXw7ri4yo25">Lasting Freedom</a></td>
-    <td align="center"><a href="https://open.spotify.com/intl-id/track/446RW9TkvQNBHxJqD986nb">Above Below</a></td>
+    <td align="center"><a href="https://open.spotify.com/intl-id/track/3tDAE08rX2Rnsg7Hp943f1">Suprise-DRIVE</a></td>
   </tr>
 </table>
 </div>
