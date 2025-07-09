@@ -105,6 +105,19 @@
 
 # 🎧 Spotify Zone :
 
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://i.scdn.co/image/ab6775700000ee8593d20991fe468950e082427b" width="150"></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://open.spotify.com/user/31ln5lwx5nlfrtsypwjjooao77gi?si=e74fb81d02c34f74">SaAk</a></td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🎵 My Top 3 Favorite Songs
 
 <div align="center">
