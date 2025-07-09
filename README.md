@@ -5,7 +5,9 @@
 
 ---
 
+<p align="right">
 🇮🇩 [Bahasa Indonesia](#tentang-saya) | 🇬🇧 [English](#about-me)
+</p>
 
 ---
 
