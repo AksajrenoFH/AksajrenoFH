@@ -9,7 +9,9 @@
 
 ---
 
-## 🧑‍💻 Tentang Saya
+<h2 id="tentang-saya">
+  🧑‍💻 Tentang Saya
+</h2>
 
 - 🎓 Sedang belajar Web & Bot Development
 - 💡 Tertarik di bidang **JavaScript, Backend, dan Node.js**
@@ -23,7 +25,9 @@
 
 ---
 
-## 🧑‍💻 About Me
+<h2 id="about-me">
+  🧑‍💻 About Me
+</h2>
 
 - 🎓 Study Web & Bot Development
 - 💡 Have an interest in **JavaScript, Backend, and Node.js**
