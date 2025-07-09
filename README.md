@@ -5,9 +5,13 @@
 
 ---
 
+🇮🇩 [Bahasa Indonesia](#tentang-saya) | 🇬🇧 [English](#about-me)
+
+---
+
 ## 🧑‍💻 Tentang Saya
 
-- 🎓 Sedang belajar Web Development
+- 🎓 Sedang belajar Web & Bot Development
 - 💡 Tertarik di bidang **JavaScript, Backend, dan Node.js**
 - 📫 Bisa kontak saya lewat: [email@email.com](mailto:jrenksa31@email.com)
 - 📱 MedSos (Barang kali boleh difollow) :
@@ -19,7 +23,21 @@
 
 ---
 
-## 🛠️ Tools & Tech yang Saya Gunakan
+## 🧑‍💻 About Me
+
+- 🎓 Study Web & Bot Development
+- 💡 Have an interest in **JavaScript, Backend, and Node.js**
+- 📫 Can contact me on: [email@email.com](mailto:jrenksa31@email.com)
+- 📱 Social Media (Maybe you can follow it) :
+    - <a href="https://www.instagram.com/i77.o13/">Instagram</a>
+    - <a href="https://x.com/Ju5tS0m3Th1ng">Twitter</a>
+    - <a href="https://www.facebook.com/s4me.sam3/">Fesnuk</a>
+    - <a href="https://www.youtube.com/@someonetomeetyou">Youtube</a>
+- 🔮
+
+---
+
+## 🛠️ Tools & Tech That I Use
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
@@ -56,8 +74,10 @@
   
 ### 🎮 Genre Game yang disukai :
 - Rhythm
-- Santai
+- Chill
+- RPH
 - Adventure
+- Gacha
 
 ### 📺 Film/Anime yang ditonton :
 - Tensura
@@ -69,7 +89,7 @@
 - Kamen Rider Reiwa (cmn ampe revice)
 - Super Sentai Heisei
 - Super Sentai Reiwa (cmn ampe zenkaiger)
-- dlsb (dan lain sebagainya)
+- etc
 
 ### 😺 Fun Fact :
 - Punya nama samaran/nickname SomeWan
