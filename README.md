@@ -3,6 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+To+My+GitHub!;I+Love+To+Build+Cool+Web+Projects;Always+Learning+New+Material!+🚀;Like+Script+Langguage" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AksajrenoFH&label=Profile+Views&color=blueviolet&style=flat" alt="view count"/>
+  <img src="https://img.shields.io/github/followers/AksajrenoFH?label=Followers&style=social" />
+</p>
+
 ---
 
 🇮🇩 [Bahasa Indonesia](#tentang-saya) | 🇬🇧 [English](#about-me)
@@ -37,7 +42,15 @@
     - <a href="https://x.com/Ju5tS0m3Th1ng">Twitter</a>
     - <a href="https://www.facebook.com/s4me.sam3/">Fesnuk</a>
     - <a href="https://www.youtube.com/@someonetomeetyou">Youtube</a>
-- 🔮
+- 🔮 Reason learning code : Want to make a discord bot, whatsapp bot, etc
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AksajrenoFH&theme=radical&column=7&margin-w=5&margin-h=10"/>
+</p>
 
 ---
 
