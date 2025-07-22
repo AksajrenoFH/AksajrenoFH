@@ -46,14 +46,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AksajrenoFH&theme=radical&column=7&margin-w=5&margin-h=10"/>
-</p>
-
----
-
 ## 🛠️ Tools & Tech That I Use
 
 <p align="center">
