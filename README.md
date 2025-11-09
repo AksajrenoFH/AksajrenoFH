@@ -128,14 +128,14 @@
 <div align="center">
 <table>
   <tr>
-    <td><img src="https://i.scdn.co/image/ab67616d00001e02e0c4007daaad3c26ce9090e9" width="100"/></td>
+    <td><img src="https://i.scdn.co/image/ab67616d0000b2732a75cec53d0a5c035cb12d93" width="100"/></td>
     <td><img src="https://i.scdn.co/image/ab67616d00001e027abbe7430e3d96d7cc165c11" width="100"/></td>
-    <td><img src="https://i.scdn.co/image/ab67616d00001e02f4f0ba48bb082e43105fbdea" width="100"/></td>
+    <td><img src="https://i.scdn.co/image/ab67616d00001e029cac30b15295be3d7f023aac" width="100"/></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://open.spotify.com/intl-id/track/2sb0MPuym9pDaru5M2DHsU">Help!</a></td>
+    <td align="center"><a href="https://open.spotify.com/intl-id/track/6fTOdyqeYjQc2oWq1wV2rc">Figure It Out!</a></td>
     <td align="center"><a href="https://open.spotify.com/intl-id/track/5h8I4E89cihpXw7ri4yo25">Lasting Freedom</a></td>
-    <td align="center"><a href="https://open.spotify.com/intl-id/track/3tDAE08rX2Rnsg7Hp943f1">Suprise-DRIVE</a></td>
+    <td align="center"><a href="https://open.spotify.com/intl-id/track/1OMkdm5qzJYHCaOWfIplVo">Dahlah</a></td>
   </tr>
 </table>
 </div>
