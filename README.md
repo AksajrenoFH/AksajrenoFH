@@ -20,7 +20,7 @@
 
 - 🎓 Sedang belajar Web & Bot Development
 - 💡 Tertarik di bidang **JavaScript, Backend, dan Node.js**
-- 📫 Bisa kontak saya lewat: [email@email.com](mailto:jrenksa31@email.com)
+- 📫 Bisa kontak saya lewat: [email@email.com](mailto:jrenksa31@email.com) atau [LinkedIn](https://www.linkedin.com/in/aksajreno-fathukhotir-hayu-0b2652387)
 - 📱 MedSos (Barang kali boleh difollow) :
     - <a href="https://www.instagram.com/i77.o13/">Instagram</a>
     - <a href="https://x.com/Ju5tS0m3Th1ng">Twitter</a>
@@ -36,7 +36,7 @@
 
 - 🎓 Study Web & Bot Development
 - 💡 Have an interest in **JavaScript, Backend, and Node.js**
-- 📫 Can contact me on: [email@email.com](mailto:jrenksa31@email.com)
+- 📫 Can contact me on: [email@email.com](mailto:jrenksa31@email.com) or [LinkedIn](https://www.linkedin.com/in/aksajreno-fathukhotir-hayu-0b2652387)
 - 📱 Social Media (Maybe you can follow it) :
     - <a href="https://www.instagram.com/i77.o13/">Instagram</a>
     - <a href="https://x.com/Ju5tS0m3Th1ng">Twitter</a>
