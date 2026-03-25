@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aksajreno Fathukhotir Hayu</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+To+My+GitHub!;I+Love+To+Build+Cool+Web+Projects;Always+Learning+New+Material!+🚀;Like+Script+Langguage" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+To+My+GitHub!;I+Love+To+Build+Cool+Projects;Always+Learning+New+Material!+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,12 +20,7 @@
 
 - 🎓 Sedang belajar Web & Bot Development
 - 💡 Tertarik di bidang **JavaScript, Backend, dan Node.js**
-- 📫 Bisa kontak saya lewat: [email@email.com](mailto:jrenksa31@email.com) atau [LinkedIn](https://www.linkedin.com/in/aksajreno-fathukhotir-hayu-0b2652387)
-- 📱 MedSos (Barang kali boleh difollow) :
-    - <a href="https://www.instagram.com/i77.o13/">Instagram</a>
-    - <a href="https://x.com/Ju5tS0m3Th1ng">Twitter</a>
-    - <a href="https://www.facebook.com/s4me.sam3/">Fesnuk</a>
-    - <a href="https://www.youtube.com/@someonetomeetyou">Youtube</a> (msi bisa diitung medsos)
+- 📫 Bisa kontak saya lewat: [email@email.com](mailto:jrenksa31@email.com)
 - 🔮 Alasan belajar Ngodink : Mau buat Bot kyk di Discord, WA, dsj
 
 ---
@@ -36,12 +31,7 @@
 
 - 🎓 Study Web & Bot Development
 - 💡 Have an interest in **JavaScript, Backend, and Node.js**
-- 📫 Can contact me on: [email@email.com](mailto:jrenksa31@email.com) or [LinkedIn](https://www.linkedin.com/in/aksajreno-fathukhotir-hayu-0b2652387)
-- 📱 Social Media (Maybe you can follow it) :
-    - <a href="https://www.instagram.com/i77.o13/">Instagram</a>
-    - <a href="https://x.com/Ju5tS0m3Th1ng">Twitter</a>
-    - <a href="https://www.facebook.com/s4me.sam3/">Fesnuk</a>
-    - <a href="https://www.youtube.com/@someonetomeetyou">Youtube</a>
+- 📫 Can contact me on: [email@email.com](mailto:jrenksa31@email.com)
 - 🔮 Reason learning code : Want to make a discord bot, whatsapp bot, etc
 
 ---
@@ -56,6 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
 </p>
 
 ---
@@ -63,148 +54,70 @@
 ## 📈 GitHub Stats
 
 <p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AksajrenoFH&theme=react-dark&hide_border=true" />
+  </a>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=AksajrenoFH&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AksajrenoFH&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AksajrenoFH&layout=compact&theme=radical" />
 </p>
 
----
 
-## ✨ Fun Zone
+## 🧩 Quote Of The Day
 
-### 🏓 Hobi :
-- Ngoding
-- Nonton
-- Ngoding
-- Main Game
-- Ngoding
-- Denger Musik
-- Ngoding
-- Ngoding
-  
-### 🎮 Genre Game yang disukai :
-- Rhythm
-- Chill
-- RPH
-- Adventure
-- Gacha
+> *Ingin Menjadi Programmer Handal Namun Enggan Ngoding* ~IMPHNEN
 
-### 📺 Film/Anime yang ditonton :
-- Tensura
-- JJBA
-- DanDaDan
-- Dr. Stone
-- Dark Gathering
-- Kamen Rider Heisei
-- Kamen Rider Reiwa (cmn ampe revice)
-- Super Sentai Heisei
-- Super Sentai Reiwa (cmn ampe zenkaiger)
-- etc
-
-### 😺 Fun Fact :
-- Punya nama samaran/nickname SomeWan
-- Lumayan bisa baca Bahasa Jepang
-- Ngerti beberapa Kaiwa Jepang
-- Udh itu doang
+<div align="center">
+  <h3> Random Quote  </h3>
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
+</div>
 
 ---
 
-# 🎧 Spotify Zone :
+## 🔎 You Can Found Me on 
 
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://i.scdn.co/image/ab6775700000ee8593d20991fe468950e082427b" width="150"></td>
+      <td>
+          <img src="https://instagram.fjog3-1.fna.fbcdn.net/v/t51.82787-19/559360475_18024019706754777_1179988119167393812_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gEAl_oxvtnoYJ_A_sn2LeJ8LustbSR8ocfiOdsT8vMPTjTLWCvuuQjVRW1tC3-3QKoa6qio70aoVZY868kvSKnz&_nc_ohc=G0oc01yHXu8Q7kNvwECWNZU&_nc_gid=65RIEndVn9UuNAlDRJf0pw&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfxIQ8tsv1agEObvMWGTp_6NQedNF-YajwXFB5NAU2tmag&oe=69C9A639&_nc_sid=7a9f4b" width="100"/>
+      </td>
+      <td>
+          <img src="https://github.com/user-attachments/assets/33850c17-6cf5-4b0b-be72-9c83481db45d" width="100"/>
+      </td>
+      <td>
+          <img src="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-1/476236704_692448573447172_1637795820313391354_n.jpg?stp=c0.0.466.466a_dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeGuFkaLxFeZ6ogSDQ9ucy9BJw6Yv4M73TMnDpi_gzvdM2bKsTf_YMCR0bptAlMAF1QkWsU56SKAfijAQTHf05rE&_nc_ohc=ZwOIwGI1kCoQ7kNvwGJDqYl&_nc_oc=Adod7Hvzy2yK8dnDg7zkEbu_DsRRmHeJZlI2vMRWqlJy0dY7fMuR5Ps6WEzCTVASrIOLNR8q-bAHJN2tCUhO1Z7Y&_nc_zt=24&_nc_ht=scontent.fjog3-1.fna&_nc_gid=EmqBcdxnNRSSAVz0QMVQVQ&_nc_ss=7a32e&oh=00_Afwo6WC6husfUSU6DsTTfJliz0PcE75eYFUIUJUiX33HjA&oe=69C9CCE8" width="100"/>
+      </td>
+      <td>
+          <img src="https://github.com/user-attachments/assets/33850c17-6cf5-4b0b-be72-9c83481db45d" width="100"/>
+      </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://open.spotify.com/user/31ln5lwx5nlfrtsypwjjooao77gi?si=e74fb81d02c34f74">SaAk</a></td>
+      <td align="center" >
+        <a href="https://www.instagram.com/i77.o13/">
+          Instagram
+        </a>
+      </td>
+      <td align="center" >
+        <a href="https://x.com/Ju5tS0m3Th1ng">
+          X/Twitter
+        </a>
+      </td>
+      <td align="center" >
+        <a href="https://web.facebook.com/s4me.sam3/">
+          Facebook
+        </a>
+      </td>
+      <td align="center" >
+        <a href="https://www.youtube.com/@someonetomeetyou">
+          Youtube
+        </a>
+      </td>
     </tr>
   </table>
 </div>
-
----
-
-## 🎵 My Top 3 Favorite Songs
-
-<div align="center">
-<table>
-  <tr>
-    <td><img src="https://i.scdn.co/image/ab67616d00001e0237fe76f04bbec5e6c401df62" width="200"/></td>
-    <td><img src="https://i.scdn.co/image/ab67616d00001e029cac30b15295be3d7f023aac" width="200"/></td>
-    <td><img src="https://i.scdn.co/image/ab67616d0000b2732a75cec53d0a5c035cb12d93" width="200"/></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://open.spotify.com/intl-id/track/0Dw5ZzMvWv9MfFcatIuEJ9">Show Them (Who You Are)</a></td>
-    <td align="center"><a href="https://open.spotify.com/intl-id/track/1OMkdm5qzJYHCaOWfIplVo">Dahlah</a></td>
-    <td align="center"><a href="https://open.spotify.com/intl-id/track/6fTOdyqeYjQc2oWq1wV2rc">Figure It Out!</a></td>
-  </tr>
-</table>
-</div>
-
-## 🧑‍🎤 My Top 5 Favorite Artists
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center"><img src="https://i.scdn.co/image/ab6761610000517469fbe8f09ed2c94b8f979a8d" width="80"/></td>
-    <td align="center"><img src="https://i.scdn.co/image/ab67616d00001e0281bffc699c75f72c1f7313aa" width="80"/></td>
-    <td align="center"><img src="https://i.scdn.co/image/ab67616100005174bcb1c184c322688f10cdce7a" width="80"/></td>
-    <td align="center"><img src="https://i.scdn.co/image/ab67616100005174b639332f84f555713a1cff46" width="80"/></td>
-    <td align="center"><img src="https://i.scdn.co/image/ab67616d00001e02c63e9f758f4e8eceadabc3f0" width="80"/></td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <a href="https://open.spotify.com/artist/2Iss9rGmxvoEfVigargjTH">Moona Hoshinova</a>
-    </td>
-    <td align="center" width="120">
-      <a href="https://open.spotify.com/intl-id/artist/6AjW1aE0OlIoRGdnwbHgP2">Kobo Kanaeru</a>
-    </td>
-    <td align="center" width="120">
-      <a href="https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl">Ado</a>
-    </td>
-    <td align="center" width="120">
-      <a href="https://open.spotify.com/intl-id/artist/5XaBNKQo65yYcjNA8wQPOk">宝鐘 マリン</a>
-    </td>
-    <td align="center" width="120">
-      <a href="https://open.spotify.com/intl-id/artist/7CXyP7IN0L3ySUeIQ6Ymu1">Leo/Need</a>
-    </td>
-  </tr>
-</table>
-</div>
-
-## 🎧 My 3 Most Played Playlists
-
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <a href="https://open.spotify.com/playlist/4NCmQG8dy8LnfNIfGO1MFb">
-        <img src="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c3e34a41b4f2a90c3731fc368" width="200"/>
-        <p align="center">💖 Hololive Fav Songs</p>
-      </a>
-    </td>
-    <td>
-      <a href="https://open.spotify.com/intl-id/artist/6mEQK9m2krja6X1cfsAjfl">
-        <img src="https://i.scdn.co/image/ab67616100005174bcb1c184c322688f10cdce7a" width="200"/>
-        <p align="center">✨ Ado</p>
-      </a>
-    </td>
-    <td>
-      <a href="https://open.spotify.com/playlist/37i9dQZF1DZ06evO4w6PwC">
-        <img src="https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/thisis/7CXyP7IN0L3ySUeIQ6Ymu1/id" width="200"/>
-        <p align="center">🎹 This Is Leo/Need</p>
-      </a>
-    </td>
-  </tr>
-</table>
-</div>
-
-
----
-
-## 🧩 Random Quote of the Day
-
-> *Ingin Menjadi Programmer Handal Namun Enggan Ngoding* ~IMPHNEN
 
 ---
 
