@@ -1,11 +1,21 @@
 <h1 align="center">Hi 👋, I'm Aksajreno Fathukhotir Hayu</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+To+My+GitHub!;I+Love+To+Build+Cool+Projects;Always+Learning+New+Material!+🚀" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+To+My+GitHub!;I+Love+Building+Cool+Projects;Always+Learning+New+Things!+🚀"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AksajrenoFH&label=Profile+Views&color=blueviolet&style=flat" alt="view count"/>
-  <img src="https://img.shields.io/github/followers/AksajrenoFH?label=Followers&style=social" />
+  <img
+    src="https://komarev.com/ghpvc/?username=AksajrenoFH&label=Profile+Views&color=blueviolet&style=flat"
+    alt="Profile Views"
+  />
+  <img
+    src="https://img.shields.io/github/followers/AksajrenoFH?label=Followers&style=social"
+    alt="GitHub Followers"
+  />
 </p>
 
 ---
@@ -36,17 +46,29 @@
 
 ---
 
-## 🛠️ Tools & Tech That I Use
+## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original-wordmark.svg" width="40" alt="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg" width="40" alt="Discord.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" alt="Prisma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40" alt="Cloudflare" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" alt="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" alt="WordPress" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" alt="Canva" />
 </p>
 
 ---
@@ -54,77 +76,82 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AksajrenoFH&theme=react-dark&hide_border=true" />
-  </a>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AksajrenoFH&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AksajrenoFH&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AksajrenoFH&layout=compact&theme=radical" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AksajrenoFH&theme=react-dark&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AksajrenoFH&show_icons=true&theme=radical"
+    alt="GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=AksajrenoFH&theme=radical"
+    alt="GitHub Streak"
+    height="180"
+  />
+</p>
 
-## 🧩 Quote Of The Day
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AksajrenoFH&layout=compact&theme=radical"
+    alt="Top Languages"
+  />
+</p>
 
-> *Ingin Menjadi Programmer Handal Namun Enggan Ngoding* ~IMPHNEN
+---
+
+## 🧩 Quote of the Day
+
+> *"Ingin Menjadi Programmer Handal Namun Enggan Ngoding"*
+>
+> — IMPHNEN
 
 <div align="center">
-  <h3> Random Quote  </h3>
-  <br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
+  <h3>Random Quote</h3>
+
+<img
+ src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+ alt="Random Quote"
+/>
+
 </div>
 
 ---
 
-## 🔎 You Can Found Me on 
+## 🔎 You Can Find Me On
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-          <img src="https://instagram.fjog3-1.fna.fbcdn.net/v/t51.82787-19/559360475_18024019706754777_1179988119167393812_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gEAl_oxvtnoYJ_A_sn2LeJ8LustbSR8ocfiOdsT8vMPTjTLWCvuuQjVRW1tC3-3QKoa6qio70aoVZY868kvSKnz&_nc_ohc=G0oc01yHXu8Q7kNvwECWNZU&_nc_gid=65RIEndVn9UuNAlDRJf0pw&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfxIQ8tsv1agEObvMWGTp_6NQedNF-YajwXFB5NAU2tmag&oe=69C9A639&_nc_sid=7a9f4b" width="100"/>
-      </td>
-      <td>
-          <img src="https://github.com/user-attachments/assets/33850c17-6cf5-4b0b-be72-9c83481db45d" width="100"/>
-      </td>
-      <td>
-          <img src="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-1/476236704_692448573447172_1637795820313391354_n.jpg?stp=c0.0.466.466a_dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeGuFkaLxFeZ6ogSDQ9ucy9BJw6Yv4M73TMnDpi_gzvdM2bKsTf_YMCR0bptAlMAF1QkWsU56SKAfijAQTHf05rE&_nc_ohc=ZwOIwGI1kCoQ7kNvwGJDqYl&_nc_oc=Adod7Hvzy2yK8dnDg7zkEbu_DsRRmHeJZlI2vMRWqlJy0dY7fMuR5Ps6WEzCTVASrIOLNR8q-bAHJN2tCUhO1Z7Y&_nc_zt=24&_nc_ht=scontent.fjog3-1.fna&_nc_gid=EmqBcdxnNRSSAVz0QMVQVQ&_nc_ss=7a32e&oh=00_Afwo6WC6husfUSU6DsTTfJliz0PcE75eYFUIUJUiX33HjA&oe=69C9CCE8" width="100"/>
-      </td>
-      <td>
-          <img src="https://github.com/user-attachments/assets/33850c17-6cf5-4b0b-be72-9c83481db45d" width="100"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" >
-        <a href="https://www.instagram.com/i77.o13/">
-          Instagram
-        </a>
-      </td>
-      <td align="center" >
-        <a href="https://x.com/Ju5tS0m3Th1ng">
-          X/Twitter
-        </a>
-      </td>
-      <td align="center" >
-        <a href="https://web.facebook.com/s4me.sam3/">
-          Facebook
-        </a>
-      </td>
-      <td align="center" >
-        <a href="https://www.youtube.com/@someonetomeetyou">
-          Youtube
-        </a>
-      </td>
-    </tr>
-  </table>
+
+|                  📱 Instagram                  |                 𝕏 X / Twitter                |                    📘 Facebook                   |                           ▶️ YouTube                           |
+| :--------------------------------------------: | :-------------------------------------------: | :----------------------------------------------: | :------------------------------------------------------------: |
+| [@i77.o13](https://www.instagram.com/i77.o13/) | [@Ju5tS0m3Th1ng](https://x.com/Ju5tS0m3Th1ng) | [s4me.sam3](https://web.facebook.com/s4me.sam3/) | [@someonetomeetyou](https://www.youtube.com/@someonetomeetyou) |
+
+</div>
+
+---
+
+## 🧠 Quote from Sun Tzu
+
+<div align="center">
+
+<img
+src="https://github.com/user-attachments/assets/5a19f973-a168-4c78-bd0f-f55b0beb8bb1"
+width="350"
+alt="Sun Tzu Quote"
+/>
+
 </div>
 
 ---
 
 <div align="center">
 
-  <h2>BONUS Momoi Makan</h2>
+### Thanks for visiting! 👋
 
-  <img src="https://media1.tenor.com/m/vCHi6M0YuZIAAAAC/saiba-momoi-blue-sechi.gif" width="350">
+⭐ Feel free to explore my repositories and projects.
+
 </div>
-
