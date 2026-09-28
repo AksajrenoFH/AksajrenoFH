@@ -126,9 +126,9 @@
 
 <div align="center">
 
-|                  📱 Instagram                  |                 𝕏 X / Twitter                |                    📘 Facebook                   |                           ▶️ YouTube                           |
-| :--------------------------------------------: | :-------------------------------------------: | :----------------------------------------------: | :------------------------------------------------------------: |
-| [@i77.o13](https://www.instagram.com/i77.o13/) | [@Ju5tS0m3Th1ng](https://x.com/Ju5tS0m3Th1ng) | [s4me.sam3](https://web.facebook.com/s4me.sam3/) | [@someonetomeetyou](https://www.youtube.com/@someonetomeetyou) |
+|                  📱 Instagram                  |                           ▶️ YouTube                           |
+| :--------------------------------------------: | :------------------------------------------------------------: |
+| [@i77.o13](https://www.instagram.com/i77.o13/) | [@someonetomeetyou](https://www.youtube.com/@someonetomeetyou) |
 
 </div>
 
