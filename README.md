@@ -29,9 +29,9 @@
 </h2>
 
 - 🎓 Sedang belajar Web & Bot Development
-- 💡 Tertarik di bidang **JavaScript, Backend, dan Node.js**
-- 📫 Bisa kontak saya lewat: [email@email.com](mailto:jrenksa31@email.com)
-- 🔮 Alasan belajar Ngodink : Mau buat Bot kyk di Discord, WA, dsj
+- 💡 Tertarik pada bidang Backend, Software Engineering, IoT, dan AIoT
+- 🚀 Suka mempelajari teknologi baru dan membangun berbagai project
+- 📫 Kontak: jrenksa31@email.com
 
 ---
 
@@ -39,10 +39,10 @@
   🧑‍💻 About Me
 </h2>
 
-- 🎓 Study Web & Bot Development
-- 💡 Have an interest in **JavaScript, Backend, and Node.js**
-- 📫 Can contact me on: [email@email.com](mailto:jrenksa31@email.com)
-- 🔮 Reason learning code : Want to make a discord bot, whatsapp bot, etc
+- 🎓 Currently learning Web & Bot Development
+- 💡 Interested in Backend, Software Engineering, IoT, and AIoT
+- 🚀 I enjoy learning new technologies and building various projects
+- 📫 Contact me: jrenksa31@email.com
 
 ---
 
