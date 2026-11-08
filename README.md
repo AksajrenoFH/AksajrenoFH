@@ -29,7 +29,7 @@
 </h2>
 
 - 🎓 Sedang belajar Computer Science
-- 💡 Tertarik pada bidang Backend, Software Engineering, IoT, dan AIoT
+- 💡 Tertarik pada bidang Backend, Software Engineering, IoT Dev, dan AIoT Dev
 - 🚀 Suka mempelajari teknologi baru dan membangun berbagai project
 - 📫 Kontak: jrenksa31@email.com
 
@@ -40,7 +40,7 @@
 </h2>
 
 - 🎓 Currently learning Computer Science
-- 💡 Interested in Backend, Software Engineering, IoT, and AIoT
+- 💡 Interested in Backend, Software Engineering, IoT Dev, and AIoT Dev
 - 🚀 I enjoy learning new technologies and building various projects
 - 📫 Contact me: jrenksa31@email.com
 
